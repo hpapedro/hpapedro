@@ -8,15 +8,10 @@
   <img height="50%" width="22%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hpapedro&theme=merko&show_icons=true">
  </p>
  
-
------
-
+<h1>My tech stack<h1>
 <p>
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzY5OW1nODJ2ZmlmYWd5M3IzZWw0aWF6Z3B1cXV3YmZjcWNueTltNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l42PANw17Cvm0BBvi/giphy.gif" alt="Programando" width="250"/>
 </p>
-
-
-## My tech stack
 
 <p align="left"> 
   <a> 
@@ -70,7 +65,7 @@
 </p>
 
 
-## Connect with me:
+Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/hpapedro/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
@@ -79,6 +74,7 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" height="30" width="30"/>
   </a>
 </p>
+
 
 
 
